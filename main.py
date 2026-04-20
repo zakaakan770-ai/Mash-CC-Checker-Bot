@@ -6,7 +6,7 @@ from gatet import Tele  # Ensure this module is correctly installed or replace w
 import os
 
 # Bot token and initialization
-token = '7726534009:AAE88S_QoVc5kuUhBcYG7NctgiOhrfipPdw'
+token = '8764713359:AAEkJanr5HZ7eCEt9vgRqxBqaQIulQgznRQ'
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 # Subscribers list (authorized users)
