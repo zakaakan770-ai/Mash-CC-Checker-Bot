@@ -11,7 +11,7 @@ bot = telebot.TeleBot(token, parse_mode="HTML")
 
 # Subscribers list (authorized users)
 subscriber = [
-    '6249257243', 
+    '8315317975', 
     '5442332281', 
     '5991909954', 
     '7303810912', 
